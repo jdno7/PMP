@@ -736,5 +736,20 @@ const cards = {
             “know-how” when doing a task.`
     } 
     }
+    // term definitions were copy/pasted with linebreaks 
+    // loop below will fix
+    const fixString = (str) => {
+        return str.replace(/(\r\n|\n|\r)/gm, "").replace(/\s+/g, ' ').trim()
+    }
+
+    for(let section of Object.keys(cards)) {
+        // console.log('section ====',cards[section])
+        // console.log('keys ====',Object.keys(cards[section]))
+        for(let term of Object.keys(cards[section])){
+            cards[section][term] = fixString(cards[section][term])
+            // console.log('term ===', cards[section][term])
+        }
+    }
+console.log(cards)
 
 export default cards
