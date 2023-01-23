@@ -750,6 +750,6 @@ const cards = {
             // console.log('term ===', cards[section][term])
         }
     }
-console.log(cards)
+// console.log(cards)
 
 export default cards
