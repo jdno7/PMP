@@ -734,6 +734,950 @@ const cards = {
             because it’s personal beliefs, values, 
             knowledge gain from experience, and 
             “know-how” when doing a task.`
+    } ,
+
+    'Project Scope Management Terms': {
+        '8/80 Rule': 
+            `A planning heuristic for creating the 
+            WBS. This rule states that the work 
+            package in a WBS must take no more 
+            than 80 hours of labor to create and no 
+            fewer than 8 hours of labor to create.`,
+        
+        'Active Observation': 
+            `The observer interacts with the worker to 
+            ask questions and understand each step 
+            of the work being completed. In some 
+            instances, the observer could serve as an 
+            assistant in doing the work.`,
+
+        'Affinity diagrams': 
+            `When stakeholders create a large 
+            number of ideas, you can use an affinity 
+            diagram to cluster similar ideas together 
+            for further analysis.`,
+
+        'Alternatives generation': 
+            `A scope definition process of finding 
+            alternative solutions for the project 
+            customer while considering the 
+            customer’s satisfaction, the cost of the 
+            solution, and how the customer may use 
+            the product in operations.`,
+
+        'Autocratic':
+            `A decision method where only one 
+            individual makes the decision for the 
+            group.`,
+
+        'Brainstorming': 
+            `This approach encourages participants to 
+            generate as many ideas as possible 
+            about the project requirements. No idea 
+            is judged or dismissed during the 
+            brainstorming session.`,
+
+        'Change Control System (CCS)': 
+            `Documented in the scope management 
+            plan, this system defines how changes to 
+            the project scope are managed and 
+            controlled.`,
+
+        'Change management plan': 
+            `This subsidiary plan defines how 
+            changes will be allowed and managed 
+            within the project.`,
+
+        'Code of accounts': 
+            `A numbering system for each item in the 
+            WBS. The PMBOK is a good example of 
+            a code of accounts, as each chapter and 
+            its subheadings follow a logical 
+            numbering scheme. For example, 
+            PMBOK 5.3.3.2 identifies an exact
+            paragraph in the PMBOK.`,
+
+        'Configuration management plan': 
+            `This subsidiary plan defines how 
+            changes to the features and functions of 
+            the project deliverables will be monitored 
+            and controlled within the project.`,
+
+        'Context diagram': 
+            `These diagrams show the relationship 
+            between elements of an environment. For 
+            example, a context diagram would 
+            illustrate the networks, servers, 
+            workstations, and people that interact 
+            with the elements of the environment.`,
+
+        'Focus groups': 
+            `A moderator-led requirements collection 
+            method to elicit requirements from 
+            stakeholders.`,
+
+        'Fuctional analysis': 
+            `This is the study of the functions within a 
+            system, project, or, what’s more likely in 
+            the project scope statement, the product 
+            the project will be creating. Functional 
+            analysis studies the goals of the product, 
+            how the product will be used, and the 
+            expectations the customer has of the 
+            product once it leaves the project and 
+            moves into operations. Functional 
+            analysis may also consider the cost of 
+            the product in operations, which is known 
+            as life-cycle costing.`,
+
+        'Funding limit': 
+            `Most projects have a determined budget 
+            in relation to the project scope. There 
+            may be a qualifier on this budget, such as 
+            plus or minus 10 percent based on the 
+            type of cost estimate created.`,
+
+        'Interviews': 
+            `A requirements collection method used to 
+            elicit requirements from stakeholders in a 
+            one-on-one conversation.`,
+
+        'Majority':
+            `A group decision method where more 
+            than 50 percent of the group must be in 
+            agreement.`,
+
+        'Mind mapping': 
+            `This approach maps ideas to show the 
+            relationship among requirements and the 
+            differences between requirements. The 
+            map can be reviewed to identify new 
+            solutions or to rank the identified 
+            requirements.`,
+
+        'Nominal group technicque': 
+            `As with brainstorming, participants are 
+            encouraged to generate as many ideas 
+            as possible, but the suggested ideas are 
+            ranked by a voting process.`,
+
+        'Passive observation':
+            `The observer records information about 
+            the work being completed without 
+            interrupting the process; sometimes 
+            called the invisible observer.`,
+
+        'Plurality': 
+            `A group-decision method where the 
+            largest part of the group makes the 
+            decision when it’s less than 50 percent of 
+            the total. (Consider three or four factions 
+            within the stakeholders.)`,
+
+        'Product acceptance criteria': 
+            `This project scope statement component 
+            works with the project requirements, but 
+            focuses specifically on the product and 
+            what the conditions and processes are 
+            for formal acceptance of the product.`,
+    
+        'Product breakdown':
+            `A scope definition technique that breaks 
+            down a product into a hierarchical 
+            structure, much like a WBS breaks down 
+            a project scope.`,
+
+        'Product scope description':
+            `This is a narrative description of what the 
+            project is creating as a deliverable for the 
+            project customer.`,
+
+        'Product scope':
+            `Defines the product or service that will 
+            come about as a result of completing the 
+            project. It defines the features and 
+            functions that characterize the product.`,
+
+        'Project assumptions':
+            `A project assumption is a factor in the 
+            planning process that is held to be true 
+            but not proven to be true.`,
+
+        'Project boundaries':
+            `A project boundary clearly states what is 
+            included with the project and what’s 
+            excluded from the project. This helps to 
+            eliminate assumptions between the 
+            project management team and the 
+            project customer.`,
+
+        'Project constraints':
+            `A constraint is anything that limits the 
+            project manager’s options. Consider a 
+            predetermined budget, deadline, 
+            resources, or materials the project 
+            manager must use within the project—
+            these are all examples of project 
+            constraints.`,
+
+        'Project objectives':
+            `These are the measurable goals that 
+            determine a project’s acceptability to the 
+            project customer and the overall success 
+            of the project. Objectives often include 
+            the cost, schedule, technical 
+            requirements, and quality demands.`,
+
+        'Project requirements':
+            `These are the demands set by the 
+            customer, regulations, or the performing 
+            organization that must exist for the 
+            project deliverables to be acceptable. 
+            Requirements are often prioritized in a 
+            number of ways, from “must have” to 
+            “should have” to “would like to have.”`,
+
+        'Project scope':
+            `This defines all of the work, and only the 
+            required work, to complete the project 
+            objectives.`,
+
+        'Project management scope plan':
+            `This project management subsidiary plan 
+            controls how the scope will be defined, 
+            how the project scope statement will be 
+            created, how the WBS will be created, 
+            how scope validation will proceed, and 
+            how the project scope will be controlled 
+            throughout the project.`,
+
+        'Requirements documentation':
+            `This documentation of what the 
+            stakeholders expected in the project 
+            defines all of the requirements that must 
+            be present for the work to be accepted by 
+            the stakeholders.`,
+
+        'Requirements management plan':
+            `This subsidiary plan defines how 
+            changes to the project requirements will 
+            be permitted, how requirements will be 
+            tracked, and how changes to the 
+            requirements will be approved.`,
+
+        'Requirements Traceability Matrix (RTM)':
+            `This is a table that maps the 
+            requirements throughout the project all 
+            the way to their completion.`,
+
+        'Schedule milstones':
+            `The project customer may have specific 
+            dates when phases of the project should 
+            be completed. These milestones are 
+            often treated as project constraints.`,
+
+        'Scope creep':
+            `Undocumented, unapproved changes to 
+            the project scope.`,
+
+        'Scope validation':
+            `The formal inspection of the project 
+            deliverables, which leads to project 
+            acceptance.`,
+
+        'Stakeholder analysis':
+            `A scope definition process where the 
+            project management team interviews the 
+            stakeholders and categorizes, prioritizes, 
+            and documents what the project 
+            customer wants and needs. The analysis 
+            is to determine, quantify, and prioritize 
+            the interests of the stakeholders. 
+            Stakeholder analysis demands 
+            quantification of stakeholder objectives; 
+            goals such as “good,” “satisfaction,” and 
+            “speedy” aren’t quantifiable.`,
+
+        'Systems analysis':
+            `A scope definition approach that studies 
+            and analyzes a system, its components, 
+            and the relationship of the components 
+            within the system.`,
+
+        'Systems engineering':
+            `This project scope statement creation 
+            process studies how a system should 
+            work, designs and creates a system 
+            model, and then enacts the working 
+            system based on the project’s goals and 
+            the customer’s expectations. Systems 
+            engineering aims to balance the time and 
+            cost of the project in relation to the scope 
+            of the project.`,
+
+        'Unanimity':
+            `A group decision method where everyone 
+            must be in agreement.`,
+
+        'Value analysis':
+            `As with value engineering, this approach 
+            examines the functions of the project’s 
+            product in relation to the cost of the 
+            features and functions. This is where, to 
+            some extent, the grade of the product is 
+            in relationship to the cost of the product.`,
+
+        'Value engineering':
+            `This approach to project scope statement 
+            creation attempts to find the correct level 
+            of quality in relation to a reasonable 
+            budget for the project deliverable while 
+            still achieving an acceptable level of 
+            performance of the product.`,
+
+        'WBS dictionary':
+            `A WBS companion document that 
+            defines all of the characteristics of each 
+            element within the WBS.`,
+
+        'WBS template':
+            `A prepopulated WBS for repetitive 
+            projects. Previous projects’ WBSs are 
+            often used as templates for current 
+            similar projects.`,
+
+        'Work Breakdown Structure (WBS)':
+            `A deliverables-oriented breakdown of the 
+            project scope.`,
+
+        'Work package':
+            `The smallest item in the WBS.`,
+            
+        'Work performance information':
+            `Status of the deliverables: the work that’s 
+            been started, finished, or has yet to 
+            begin.`    
+        },
+
+
+    'Project Schedule Management Terms': {
+        'Activity list':
+            `The primary output of breaking down the 
+            WBS work packages.`,
+
+        'Alternative analysis':
+            `The identification of more than one 
+            solution. Consider roles, materials, tools, 
+            and approaches to the project work.`,
+
+        'Analogous estimating':
+            `A somewhat unreliable estimating 
+            approach that relies on historical 
+            information to predict what current activity 
+            durations should be. Analogous 
+            estimating is more reliable, however, than 
+            team member recollections. Analogous 
+            estimating is also known as top-down 
+            estimating and is a form of expert 
+            judgment.`,
+
+        'Bottom-up estimating':
+            `The most accurate time-and-cost 
+            estimating approach a project manager 
+            can use. This estimating approach starts 
+            at “the bottom” of the project and 
+            considers every activity, its predecessor 
+            and successor activities, and the exact 
+            amount of resources needed to complete 
+            each activity.`,
+
+        'Control account':
+            `A WBS entry that considers the time, 
+            cost, and scope measurements for that 
+            deliverable within the WBS. The 
+            estimated performance is compared 
+            against the actual performance to 
+            measure overall performance for the 
+            deliverables within that control account. 
+            The specifics of a control account are 
+            documented in a control account plan.`,
+
+        'Control threshold':
+            `A predetermined range of acceptable 
+            variances, such as +/–10 percent off 
+            schedule. Should the variance exceed 
+            the threshold, then project control 
+            processes and corrected actions will be 
+            enacted.`,
+
+        'Crashing':
+            `A schedule compression approach that 
+            adds more resources to activities on the 
+            critical path to complete the project 
+            earlier. When crashing a project, costs 
+            are added because the associated labor 
+            and sometimes resources (such as faster 
+            equipment) cause costs to increase.`,
+
+        'Critical path':
+            `The path in the project network diagram 
+            that cannot be delayed, otherwise the 
+            project completion date will be late. There 
+            can be more than one critical path. 
+            Activities in the critical path have no float.`,
+
+        'Discretionary dependencies':
+            `These dependencies are the preferred 
+            order of activities. Project managers 
+            should use these relationships at their 
+            discretion and should document the logic 
+            behind the decision. Discretionary 
+            dependencies allow activities to happen 
+            in a preferred order because of best 
+            practices, conditions unique to the project 
+            work, or external events. Also known as 
+            preferential or soft logic.`,
+
+        'Early finish':
+            `The earliest a project activity can finish. 
+            Used in the forward pass procedure to 
+            discover the critical path and the project 
+            float.`,
+
+        'Early start':
+            `The earliest a project activity can begin. 
+            Used in the forward pass procedure to 
+            discover the critical path and the project 
+            float.`,
+
+        'External depenencies':
+            `As the name implies, these are 
+            dependencies outside of the project’s 
+            control. Examples include the delivery of 
+            equipment from a vendor, the deliverable 
+            of another project, or the decision of a 
+            committee, lawsuit, or expected new law.`,
+
+        'Fast tracking':
+            `A schedule compression method that 
+            changes the relationship of activities. 
+            With fast tracking, activities that would 
+            normally be done in sequence are 
+            allowed to be done in parallel or with 
+            some overlap. Fast tracking can be 
+            accomplished by changing the relation of 
+            activities from FS to SS or even FF or by 
+            adding lead time to downstream 
+            activities. However, fast tracking does 
+            add risk to the project.`,
+
+        'Finish-to-finish':
+            `An activity relationship type that requires 
+            the current activity to be finished before 
+            its successor can finish.`,
+
+        'Finish-to-start':
+            `An activity relationship type that requires 
+            the current activity to be finished before 
+            its successor can start.`,
+
+        'Fragnet':
+            `A representation of a project network 
+            diagram that is often used for outsourced 
+            portions of a project, repetitive work 
+            within a project, or a subproject. Also 
+            called a subnet.`,
+
+        'Free float':
+            `This is the total time a single activity can 
+            be delayed without affecting the early 
+            start of its immediately following 
+            successor activities.`,
+
+        'Hard logic':
+            `Logic that describes activities that must 
+            happen in a particular order. For 
+            example, the dirt must be excavated 
+            before the foundation can be built. The 
+            foundation must be in place before the 
+            framing can begin. Also known as a 
+            mandatory dependency.`,
+
+        'Internal dependencies':
+            `Internal relationships to the project or the 
+            organization. For example, the project 
+            team must create the software as part of 
+            the project’s deliverable before the 
+            software can be tested for quality control.`,
+
+        'Lag time':
+            `Positive time that moves two or more 
+            activities further apart.`,
+
+        'Late finish':
+            `The latest a project activity can finish. 
+            Used in the backward pass procedure to 
+            discover the critical path and the project 
+            float.`,
+
+        'Late start':
+            `The latest a project activity can begin. 
+            Used in the backward pass procedure to 
+            discover the critical path and the project 
+            float.`,
+
+        'Lead time':
+            `Negative time that allows two or more 
+            activities to overlap where ordinarily 
+            these activities would be sequential.`,
+
+        'Management reserve':
+            `A percentage of the project duration to 
+            combat Parkinson’s Law. When project 
+            activities become late, their lateness is 
+            subtracted from the management 
+            reserve.`,
+
+        'Mandatory dependencies':
+            `These dependencies are the natural 
+            order of activities. For example, you can’t 
+            begin building your house until your 
+            foundation is in place. These 
+            relationships are called hard logic`,
+
+        'Monte Carlo analysis':
+            `A project simulation approach named 
+            after the world-famous gambling district in 
+            Monaco. This predicts how scenarios 
+            may work out, given any number of 
+            variables. The process doesn’t actually 
+            churn out a specific answer, but a range 
+            of possible answers. When Monte Carlo 
+            analysis is applied to a schedule, it can 
+            examine, for example, the optimistic 
+            completion date, the pessimistic 
+            completion date, and the most likely 
+            completion date for each activity in the 
+            project and then predict a mean for the 
+            project schedule.`,
+
+        'Parametric estimate':
+            `A quantitatively based duration estimate 
+            that uses mathematical formulas to 
+            predict how long an activity will take 
+            based on the quantities of work to be 
+            completed.`,
+
+        'Parkinsons law':
+            `A theory that states: “Work expands so 
+            as to fill the time available for its 
+            completion.” It is considered with time 
+            estimating, because bloated or padded 
+            activity estimates will fill the amount of 
+            time allotted to the activity.`,
+
+        'Planning package':
+            `A WBS entry located below a control 
+            account and above the work packages. A 
+            planning package signifies that there is 
+            more planning that needs to be 
+            completed for this specific deliverable`,
+
+        'Precedence diagramming method':
+            `A network diagram that shows activities 
+            in nodes and the relationship between 
+            each activity. Predecessors come before 
+            the current activity, and successors come 
+            after the current activity.`,
+
+        'Project calendars':
+            `Calendars that identify when the project 
+            work will occur.`,
+
+        'Project float':
+            `This is the total time the project can be 
+            delayed without passing the customer-expected completion date.`,
+
+        'Project network diagram':
+            `A diagram that visualizes the flow of the 
+            project activities and their relationships to 
+            other project activities.`,
+
+        'Refinement':
+            `An update to the work breakdown 
+            structure.`,
+
+        'Resource Breakdown Structure (RBS)':
+            `This is a hierarchical breakdown of the 
+            project resources by category and 
+            resource type. For example, you could 
+            have a category of equipment, a category 
+            of human resources, and a category of 
+            materials. Within each category, you 
+            could identify the types of equipment your 
+            project will use, the types of human 
+            resources, and the types of materials.`,
+
+        'Resource calendars':
+            `Calendars that identify when project 
+            resources are available for the project 
+            work.`,
+
+        'Resource-leveling heuristic':
+            `A method to flatten the schedule when 
+            resources are overallocated. Resource 
+            leveling can be applied using different 
+            methods to accomplish different goals. 
+            One of the most common methods is to 
+            ensure that workers are not 
+            overextended on activities.`,
+
+        'Rolling wave planning':
+            `The imminent work is planned in detail, 
+            while the work in the future is planned at 
+            a high level. This is a form of progressive 
+            elaboration.`,
+
+        'Schedule management plan':
+            `A subsidiary plan in the project 
+            management plan. It defines how the 
+            project schedule will be created, 
+            estimated, controlled, and managed.`,
+
+        'Soft logic':
+            `The activities don’t necessarily have to 
+            happen in a specific order. For example, 
+            you could install the light fixtures first, 
+            then the carpet, and then paint the room. 
+            The project manager could use soft logic 
+            to change the order of the activities if so 
+            desired.`,
+
+        'Start-to-finish':
+            `An activity relationship that requires an 
+            activity to start so that its successor can 
+            finish. This is the most unusual of all the 
+            activity relationship types.`,
+
+        'Start-to-start':
+            `An activity relationship type that requires 
+            the current activity to start before its 
+            successor can start.`,
+
+        'Subnet':
+            `A representation of a project network 
+            diagram that is often used for outsourced 
+            portions of projects, repetitive work within 
+            a project, or a subproject. Also called a 
+            fragnet.`,
+
+        'Template':
+            `A previous project that can be adapted 
+            for the current project and forms that are 
+            pre-populated with organizational-specific 
+            information.`,
+
+        'Three-point-stimate':
+            `An estimating technique for each activity 
+            that requires optimistic, most likely, and 
+            pessimistic estimates to be created. 
+            Based on these three estimates, an 
+            average can be created to predict how 
+            long the activity should take.`,
+
+        'Total float':
+            `This is the total time an activity can be 
+            delayed without delaying project 
+            completion.`,
+
+        'Work package':
+            `The smallest item in the work breakdown 
+            structure.`
+        },
+
+
+    'Project Cost Management Terms': {
+
+        'Acual Cost (AC)':
+            `The actual amount of monies the project 
+            has spent to date.`,
+
+        'Analogous estimating': 
+            `An approach that relies on historical 
+            information to predict the cost of the 
+            current project. It is also known as top-down estimating and is the least reliable 
+            of all the cost-estimating approaches.`,
+
+        'Bottom-up estimating':
+            `An estimating approach that starts from 
+            zero, accounts for each component of the 
+            WBS, and arrives at a sum for the 
+            project. It is completed with the project 
+            team and can be one of the most time-consuming and most reliable methods to 
+            predict project costs.`,
+
+        'Budget estimate':
+            `This estimate is also somewhat broad 
+            and is used early in the planning 
+            processes and also in top-down 
+            estimates. The range of variance for the 
+            estimate can be from –10 percent to +25 
+            percent.`,
+
+        'Commercial database':
+            `A cost-estimating approach that uses a 
+            database, typically software-driven, to 
+            create the cost estimate for a project.`,
+
+        'Contingency reserve':
+            `A contingency allowance to account for 
+            overruns in costs. Contingency 
+            allowances are used at the project 
+            manager’s discretion and with 
+            management’s approval to counteract 
+            cost overruns for scheduled activities and 
+            risk events.`,
+
+        'Cost aggregation':
+            `Costs are parallel to each WBS work 
+            package. The costs of each work 
+            package are aggregated to their 
+            corresponding control accounts. Each 
+            control account then is aggregated to the 
+            sum of the project costs.`,
+
+        'Cost baseline':
+            `A time-lapse exposure of when the 
+            project monies are to be spent in relation 
+            to cumulative values of the work 
+            completed in the project.`,
+
+        'Cost budgeting':
+            `The cost aggregation achieved by 
+            assigning specific dollar amounts for 
+            each of the scheduled activities or, more 
+            likely, for each of the work packages in 
+            the WBS. Cost budgeting applies the cost 
+            estimates over time.`,
+
+        'Cost change control system':
+            `A system that examines any changes 
+            associated with scope changes, the cost 
+            of materials, and the cost of any other 
+            resources, and the associated impact on 
+            the overall project cost.`,
+
+        'Cost management plan':
+            `The cost management plan dictates how 
+            cost variances will be managed.`,
+
+        'Cost of poor quality':
+            `The monies spent to recover from not 
+            adhering to the expected level of quality. 
+            Examples may include rework, defect 
+            repair, loss of life or limb because safety 
+            precautions were not taken, loss of sales, 
+            and loss of customers. This is also known
+            as the cost of nonconformance to quality.`,
+
+        'Cost of quality':
+            `The monies spent to attain the expected 
+            level of quality within a project. Examples 
+            include training, testing, and safety 
+            precautions.`,
+
+        'Cost Performance Index (CPI)':
+            `Measures the project based on its financial performance. The formula for CPI = EV/AC`,
+
+        'Cost Variance (CV)':
+            `The difference of the earned value 
+            amount and the cumulative actual costs 
+            of the project. The formula is CV = EV –
+            AC.`,
+
+        'Definitive estimate':
+            `This estimate type is one of the most 
+            accurate. It’s used late in the planning 
+            processes and is associated with bottom-up estimating. You need the WBS in 
+            order to create the definitive estimate. 
+            The range of variance for the estimate 
+            can be from –5 percent to +10 percent.`,
+
+        'Direct costs':
+            `Costs are attributed directly to the project 
+            work and cannot be shared among 
+            projects (for example, airfare, hotels, 
+            long-distance phone charges, and so on).`,
+
+        'Earned Value (EV)':
+            `Earned value is the physical work 
+            completed to date and the authorized 
+            budget for that work. It is the percentage 
+            of the BAC that represents the actual 
+            work completed in the project.`,
+
+        'Estimate At Completion (EAC)':
+                `These forecasting formulas predict the 
+                likely completed costs of the project 
+                based on current scenarios within the 
+                project.`,
+
+        'Estimate To Complete (ETC)':
+            `An earned value management formula 
+            that predicts how much funding the 
+            project will require to be completed. 
+            Three variations of this formula are based 
+            on conditions the project may be 
+            experiencing.`,
+
+        'Fixed costs':
+            `Costs that remain constant throughout 
+            the life of the project (the cost of a piece 
+            of rented equipment for the project, the 
+            cost of a consultant brought on to the 
+            project, and so on).`,
+
+        'Funding limit reconciliation':
+            `An organization’s approach to managing 
+            cash flow against the project deliverables 
+            based on a schedule, milestone 
+            accomplishment, or data constraints.`,
+
+        'Indirect costs':
+            `Costs that are representative of more 
+            than one project (for example, utilities for 
+            the performing organization, access to a 
+            training room, project management 
+            software license, and so on).`,
+
+        'Known unknown':
+            `An event that will likely happen within the 
+            project, but when it will happen and to 
+            what degree is unknown. These events, 
+            such as delays, are usually risk-related.`,
+
+        'Learning curve':
+            `An approach that assumes the cost per 
+            unit decreases the more units workers 
+            complete, because workers learn as they 
+            complete the required work.`,
+
+        'Oligopoly':
+            `A market condition where the market is 
+            so tight that the actions of one vendor 
+            affect the actions of all the others.`,
+
+        'Opportunity cost':
+            `The total cost of the opportunity that is 
+            refused to realize an opposing 
+            opportunity.`,
+
+        'Parametric estimating':
+            `An approach using a parametric model to 
+            extrapolate what costs will be needed for 
+            a project (for example, cost per hour and 
+            cost per unit). It can include variables and 
+            points based on conditions.`,
+
+        'Planned Value (PV)':
+            `Planned value is the work scheduled and 
+            the budget authorized to accomplish that 
+            work. It is the percentage of the BAC that 
+            reflects where the project should be at 
+            this point in time.`,
+
+        'Project variance':
+            `Planned value is the work scheduled and 
+            the budget authorized to accomplish that 
+            work. It is the percentage of the BAC that 
+            reflects where the project should be at 
+            this point in time.`,
+
+        'Regression analysis':
+            `This is a statistical approach to predicting 
+            what future values may be, based on 
+            historical values. Regression analysis 
+            creates quantitative predictions based on 
+            variables within one value to predict 
+            variables in another. This form of 
+            estimating relies solely on pure statistical 
+            math to reveal relationships between 
+            variables and to predict future values.`,
+
+        'Reserve analysis':
+            `Cost reserves are for unknown unknowns 
+            within a project. The management 
+            reserve is not part of the project cost 
+            baseline, but is included as part of the 
+            project budget.`,
+
+        'Rough Order of Magnitude (ROM)':
+            `This rough estimate is used during the 
+            initiating processes and in top-down 
+            estimates. The range of variance for the 
+            estimate can be from –25 percent to +75 
+            percent.`,
+
+        'Schedule Performance Index (SPI)':
+            `Measures the project based on its 
+            schedule performance. The formula is 
+            SPI = EV/PV.`,
+        
+        'Schedule Variance (SV)':
+            `The difference between the earned value 
+            and the planned value. The formulas is 
+            SV = EV – PV.`,
+
+        'Single source':
+            `Many vendors can provide what your 
+            project needs to purchase, but you prefer 
+            to work with a specific vendor.`,
+
+        'Sole source':
+            `Only one vendor can provide what your 
+            project needs to purchase. Examples 
+            include a specific consultant, specialized 
+            service, or unique type of material.`,
+
+        'Sunk costs':
+            `Monies that have already been invested 
+            in a project.`,
+
+        'To-Complete Performance Index (TCPI)':
+            `A formula to forecast the likelihood of a 
+            project to achieve its goals based on 
+            what’s happening in the project right now. 
+            There are two different flavors for the 
+            TCPI, depending on what you want to 
+            accomplish. If you want to see if your 
+            project can meet the budget at 
+            completion, you’ll use this formula: TCPI 
+            = (BAC – EV)/(BAC – AC). If you want to 
+            see if your project can meet the newly 
+            created estimate at completion, you’ll use 
+            this version of the formula: TCPI = (BAC 
+            – EV)/(EAC – AC).`,
+
+        'Variable Costs':
+            `Costs that change based on the 
+            conditions applied in the project (the 
+            number of meeting participants, the 
+            supply of and demand for materials, and 
+            so on).`,
+
+        'Variance':
+            `The difference between what was 
+            expected and what was experienced.`,
+
+        'Variance At Completion (VAC)':
+            `A forecasting formula that predicts how 
+            much of a variance the project will likely 
+            have based on current conditions within 
+            the project. The formula is VAC = BAC –
+            EAC.`,
+
+        
+        
     } 
     }
     // term definitions were copy/pasted with linebreaks 

@@ -11,8 +11,8 @@ const FlashCards = () => {
     const [cardNum, setCardNum] = useState(1)
     const [sectionNum, setSectionNum] = useState(1)
     const [termsNum, setTermNum] = useState(1)
-    const sections = Object.keys(cards)
-    const terms = Object.keys(cards[sections[sectionNum]])
+    const termSections = Object.keys(cards)
+    const terms = Object.keys(cards[termSections[sectionNum]])
 
     const nextCard = () => {
         setTermNum(termsNum+1)
@@ -21,17 +21,22 @@ const FlashCards = () => {
         setTermNum(termsNum-1)
     }
 
+    console.log('Sections === ',termSections)
+
     return (
         <>
             <h1>Flashcards</h1>
-            <h2>{sections[sectionNum]}</h2>
+            <h2>{termSections[sectionNum]}</h2>
+            <select>
+            {termSections.map(t => <option value={t}>{t}</option>)}
+            </select>
             <Row>
                 <Col>
                     <Card>
                         <Card.Title>{terms[termsNum]}</Card.Title>
                         <Card.Body>
                             <Card.Text>
-                                {cards[sections[sectionNum]][terms[termsNum]]}
+                                {cards[termSections[sectionNum]][terms[termsNum]]}
                             </Card.Text>
                         </Card.Body>
                     </Card>
