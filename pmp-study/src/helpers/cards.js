@@ -1674,11 +1674,572 @@ const cards = {
             much of a variance the project will likely 
             have based on current conditions within 
             the project. The formula is VAC = BAC –
-            EAC.`,
+            EAC.`
+        },
 
+    'Project Quality Terms':{
+
+        'Activity network diagram':
+            `This diagram breaks down ideas, solutions, 
+            causes, and project components and groups 
+            them together with other similar ideas and 
+            components.`,
+
+        'Benchmarking':
+            `Comparing any two similar entities to measure 
+            their performance.`,
+
+        'Cause-and-effect diagrams':
+            `Diagrams that show the relationship between 
+            variables within a process and how those 
+            relationships may contribute to inadequate 
+            quality. The diagrams can help organize both the 
+            process and team opinions, as well as generate 
+            discussion on finding a solution to ensure quality.`,
+
+        'Checklist':
+            `A simple approach to ensure that work is 
+            completed according to the quality policy.`,
+
+        'Control chart':
+            `A quality control chart that maps the 
+            performance of project work over time.`,
+
+        'Control quality':
+            `An inspection-driven process that measures work 
+            results to confirm that the project is meeting the 
+            relevant quality standards.`,
+
+        'Cost of conformance':
+            `This is the cost associated with the monies spent 
+            to attain the expected level of quality. It is also 
+            known as the cost of quality.`,
+
+        'Cost of nonconformance to quality':
+            `The cost associated with not satisfying quality 
+            expectations. This is also known as the cost of 
+            poor quality.`,
+
+        'Cost-benefit analysis':
+            `A process to study the trade-offs between costs 
+            and the benefits realized from those costs.`,
+
+        'Design of experiments':
+            `An approach that relies on statistical scenarios to 
+            determine what variables within a project will 
+            result in the best outcome.`,
+
+        'External QA':
+            `Assurance provided to the external customers of 
+            the project.`,
+
+        'Flowchart':
+            `A diagram illustrating how components within a 
+            system are related. Flowcharts show the relation 
+            between components, as well as help the project 
+            team determine where quality issues may be 
+            present and, once done, plan accordingly.`,
+
+        'Internal QA':
+            `Assurance provided to management and the 
+            project team.`,
+
+        'ISO':
+            `The abbreviation for the International 
+            Organization for Standardization. ISO is Greek for 
+            “equal,” while “International Organization for 
+            Standardization” in a different language would 
+            be abbreviated differently. The organization 
+            elected to use “ISO” for all languages.`,
+
+        'Matrix diagram':
+            `A data analysis table that shows the strength 
+            between variables and relationships in the 
+            matrix.`,
+
+        'Pareto diagram':
+            `A histogram that illustrates and ranks categories 
+            of failure within a project.`,
+
+        'Quality':
+            `According to ASQ, the degree to which a set of 
+            inherent characteristics fulfills requirements.`,
+
+        'Quality assurance':
+            `A management process that defines the quality 
+            system or quality policy that a project must 
+            adhere to. QA aims to plan quality into the 
+            project rather than to inspect quality into a 
+            deliverable.`,
+
+        'Quality management plan':
+            `This plan defines how the project team will 
+            implement and fulfill the quality policy of the 
+            performing organization.`,
+
+        'Quality metrics':
+            `The operational definitions that specify the 
+            measurements within a project and the expected 
+            targets for quality and performance.`,
+
+        'Quality planning':
+            `The process of first determining which quality 
+            standards are relevant to your project and then 
+            finding out the best methods of adhering to 
+            those quality standards.`,
+
+        'Rule of Seven':
+            `A component of a control chart that illustrates 
+            the results of seven measurements on one side 
+            of the mean, which is considered “out of control” 
+            in the project.`,
+
+        'Run chart':
+            `A quality control tool that shows the results of 
+            inspection in the order in which they’ve 
+            occurred. The goal of a run chart is first to 
+            demonstrate the results of a process over time 
+            and then to use trend analysis to predict when 
+            certain trends may reemerge.`,
+
+        'Scatter diagram':
+            `A quality control tool that tracks the relationship 
+            between two variables over time. The two 
+            variables are considered related the closer they 
+            track against a diagonal line.`,
+
+        'Seven basic quality tools':
+            `These seven tools are used in quality planning 
+            and in quality control: cause-and-effect diagrams, 
+            flowcharts, check sheets, Pareto diagrams, 
+            histograms, control charts, and scatter diagrams.`,
+
+        'Statistical planning':
+            `A process of choosing a percentage of results at 
+            random. For example, a project creating a 
+            medical device may have 20 percent of all units 
+            randomly selected to check for quality.`,
+
+        'System or process flwocharts':
+            `Flowcharts that illustrate the flow of a process 
+            through a system, such as a project change 
+            request through the change control system, or 
+            work authorization through a quality control 
+            process.`,
+
+        'Tree diagram':
+            `Tree diagrams show the hierarchies and 
+            decomposition of a solution, an organization, or a 
+            project team. The WBS and an org chart are 
+            examples of tree diagrams.`,
+
+        'Trend analysis':
+            `The science of using past results to predict future 
+            performance.`,
+
+        'Work performance information':
+            `The results of the project work as needed. This 
+            includes technical performance measures, 
+            project status, information on what the project 
+            has created to date, corrective actions, and 
+            performance reports.`
+    },
+    
+    'Project Resources Management Terms': {
+
+        'Adjourning':
+            `Once the project is done, either the team moves 
+            onto other assignments as a unit, or the project 
+            team is disbanded and individual team members 
+            go on to other work.`,
+
+        'Authority power':
+            `Project management team members may have 
+            authority over other project team members, may 
+            have the ability to make decisions, and perhaps 
+            even sign approvals for project work and 
+            purchases.`,
+
+        'Coercive power':
+            `The project manager has the authority to 
+            discipline the project team members. This is also 
+            known as penalty power.`,
+
+        'Collaborative/Problem solving':
+            `This approach confronts the problem head-on 
+            and is the preferred method of conflict 
+            resolution. Multiple viewpoints and perspectives 
+            contribute to the solution.`,
+
+        'Collective bargaining agreement contraints':
+            `Contracts and agreements with unions or other 
+            employee groups may serve as constraints on the 
+            project.`,
+
+        'Competency':
+            `This attribute defines what talents, skills, and 
+            capabilities are needed to complete the project 
+            work.`,
+
+        'Compromising':
+            `This approach requires that both parties give up 
+            something.`,
+
+        "Vroom's Ex[ectancy Theory":
+            `This theory states that people will behave based 
+            on what they expect as a result of their behavior. 
+            In other words, people will work in relation to 
+            the expected reward.`,
+
+        'Expert power':
+            `The project manager’s authority comes both 
+            from experience with the technology the project
+            focuses on and from expertise in managing 
+            projects.`,
+
+        'Forcing power':
+            `The person with the power makes the decision.`,
+
+        'Formal power':
+            `The project manager has been assigned the role 
+            of project manager by senior management and is 
+            in charge of the project.`,
+
+        'Forming':
+            `The project team meets and learns about their 
+            roles and responsibilities on the project. Little 
+            interaction among the project team happens in 
+            this stage as the team is learning about the 
+            project and project manager.`,
+
+        "Herzberg's Theory of Motivation":
+            `Frederick Herzberg’s theory of the motivating 
+            agents and hygiene agents that affect a person’s 
+            willingness to excel in his career.`,
+
+        'Heirarchical organizational chart':
+            `A chart showing the relationship between 
+            superior and subordinate employees, groups, 
+            disciplines, and even departments.`,
+
+        'Issue log':
+            `A logbook of the issues the project team has 
+            identified and dates as to when the issues must 
+            be resolved by. The issue log may also include 
+            team members or stakeholders who are 
+            responsible for finding a solution to the identified 
+            issues.`,
+
+        "Maslow's Heirarchy of Needs":
+            `Abraham Maslow’s theory of the five needs all 
+            humans have and work toward.`,
+
+        "McClelland's Theory of Needs":
+            `David McClelland developed this theory, which 
+            states our needs are acquired and developed by 
+            our experiences over time. All people are, 
+            according to this theory, driven by one of three 
+            needs: achievement, affiliation, or power.`,
+
+        "McGregor's Theory of X and Y":
+            `Douglas McGregor’s theory that states 
+            management views workers in the Y category as 
+            competent and self-led and workers in the X 
+            category as incompetent and needing to be 
+            micromanaged.`,
+
+        'Multicriterial Decision Analysis':
+            `A method to rate potential project team 
+            members based on criteria such as education, 
+            experience, skills, knowledge, and more.`,
+
+        'Norming':
+            `Project team members go about getting the 
+            project work, begin to rely on one another, and 
+            generally complete their project assignments.`,
+
+        'Organizational chart':
+            `Traditional chart that depicts how the 
+            organization is broken down by department and 
+            disciplines. This chart is sometimes called the 
+            organizational breakdown structure (OBS) and is 
+            arranged by departments, units, or teams.`,
+
+        "Ouchi's Theory Z":
+            `William Ouchi’s theory is based on the 
+            participative management style of the Japanese. 
+            This theory states that workers are motivated by 
+            a sense of commitment, opportunity, and 
+            advancement.`,
+
+        'Performing':
+            `If a project team can reach the performing stage 
+            of team development, they trust one another, 
+            work well together, and issues and problems get 
+            resolved quickly and effectively.`,
+
+        'Political awareness':
+            `The hidden goals, personal agendas, and 
+            alliances among the project team members and 
+            the stakeholders.`,
+
+        'RACI chart':
+            `A RACI chart is a matrix chart that only uses the 
+            activities of responsible, accountable, consult, 
+            and inform.`,
+
+        'Referent power':
+            `The project team personally knows the project 
+            manager. Referent can also mean that the 
+            project manager refers to the person who 
+            assigned him the position.`,
+
+        'Resource Breakdown Structure (RBS)':
+            `This hierarchical chart can decompose the 
+            project by the type of resources used throughout 
+            it.`,
+
+        'Responsibility Assignment Matrix (RAM)':
+            `A RAM chart shows the correlation between 
+            project team members and the work they’ve 
+            been assigned to complete.`,
+
+        'Responsibility':
+            `A responsibility is the work that a role performs.`,
+
+        'Resource managment plan':
+            `This plan defines staff acquisition, the timetable 
+            for staff acquisition, the staff release plan, 
+            training needs for the project team, any 
+            organizational compliance issues, rewards and 
+            recognitions, and safety concerns for the project 
+            team doing the project work.`,
+
+        'Reward':
+            `The project manager has the authority to reward 
+            the project team.`,
+
+        'Role':
+            `This denotes what a person is specifically 
+            responsible for in a project. Roles are usually tied 
+            to job titles, such as network engineer, 
+            mechanical engineer, and electrician.`,
+
+        'Smoothing':
+            `This approach smooths out the conflict by 
+            minimizing the perceived size of the problem. It 
+            is a temporary solution, but can calm team 
+            relations and boisterous discussions.`,
+
+        'Storming':
+            `The project team struggles for project positions, 
+            leadership, and project direction. The project 
+            team can become hostile toward the project 
+            leader, challenge ideas, and try to establish and 
+            claim positions about the project work. The 
+            amount of debate and fury can vary depending 
+            on if the project team is willing to work together, 
+            the nature of the project, and the control of the 
+            project manager.`,
+
+        'Techincal interfaces':
+            `The project team identifies the disciplines and 
+            specialties that the project will require to 
+            complete the project scope statement. The 
+            technical interfaces are the resources that will be 
+            doing the project work.`,
+
+        'Withdrawl':
+            `This conflict resolution method sees one side of 
+            the argument walking away from the problem, 
+            usually in disgust.`
+    },
+
+    'Project Communications Management Terms':{
         
+        'Acknowledgement':
+            `The receiver signals that the message has been 
+            received. An acknowledgment shows receipt of 
+            the message, but not necessarily agreement with 
+            the message.`,
+
+        'Active Listening':
+            `The receiver confirms that the message is being 
+            received through feedback, questions, prompts 
+            for clarity, and other signs of confirmation.`,
+
+        'Choice of media':
+            `The best modality to use when communicating 
+            that is relevant to the information being 
+            communicated.`,
+
+        'Communication assumptions':
+            `Anything that the project management team 
+            believes to be true but hasn’t proven to be true. 
+            For example, the project management team may 
+            assume that all of the project team can be 
+            reached via cell phone, but parts of the world, as 
+            of this writing, don’t have a cell signal.`,
+
+        'Communication barrier':
+            `Anything that prohibits communication from 
+            occurring.`,
+
+        'Communication channels formula':
+            `N(N – 1)/2, where N represents the number of 
+            identified stakeholders. This formula reveals the 
+            total number of communication channels within 
+            a project.`,
+
+        'Communication contraints':
+            `Anything that limits the project management 
+            team’s options. When it comes to 
+            communication constraints, geographical locales, 
+            incompatible communications software, and 
+            even limited communications technology can 
+            constrain the project team.`,
+
+        'Communications management plan':
+            `A project management subsidiary plan that 
+            defines the stakeholders who need specific 
+            information, the person who will supply the 
+            information, the schedule for the information to 
+            be supplied, and the approved modality to 
+            provide the information.`,
+
+        'Decoder':
+            `The device that decodes a message as it is being 
+            received.`,
         
-    } 
+        'Effective listening':
+            `The receiver is involved in the listening 
+            experience by paying attention to visual cues 
+            from the speaker and paralingual characteristics, 
+            and by asking relevant questions.`,
+
+        'Encoder':
+            `The device that encodes the message being sent.`,
+
+        'Feedback':
+            `The sender confirms that the receiver 
+            understands the message by directly asking for a 
+            response, questions for clarification, or other 
+            confirmation.`,
+
+        'Influence/impact grid':
+            `Stakeholders are mapped on a grid based on 
+            their influence over the project in relation to 
+            their influence over the project execution.`,
+
+        'Information presentation tools':
+            `A software package that allows the project 
+            management team to present the project’s 
+            health through graphics, spreadsheets, and text. 
+            (Think of Microsoft Project.)`,
+
+        'Information retrieval system':
+            `A system to quickly and effectively store, archive, 
+            and access project information.`,
+
+        'Interactive communication':
+            `This is the most common and most effective 
+            approach to communication. It’s where two or 
+            more people exchange information. Consider 
+            status meetings, ad-hoc meetings, phone calls, 
+            and videoconferences.`,
+
+        'Lessons learned':
+            `This is documentation of what did and did not 
+            work in the project implementation. Lessons 
+            learned documentation is created throughout 
+            the project by the entire project team. When 
+            lessons learned sessions are completed, they’re 
+            available to be used and applied by the entire 
+            organization. They are now part of the 
+            organizational process assets.`,
+
+        'Medium':
+            `The device or technology that transports a 
+            message.`,
+
+        'Noise':
+            `Anything that interferes with or disrupts a 
+            message.`,
+
+        'Nonverbal':
+            `Facial expressions, hand gestures, and body 
+            language are nonverbal cues that contribute to a 
+            message. Approximately 55 percent of 
+            communication is nonverbal.`,
+
+        'Parallingual':
+            `The pitch, tone, and inflections in the sender’s 
+            voice affecting the message being sent.`,
+
+        'Performance report':
+            `A report that depicts how well a project is 
+            performing. Often, the performance report is 
+            based on earned value management and may 
+            include cost or schedule variance reports.`,
+
+        'Project presentations':
+            `Presentations are useful in providing information 
+            to customers, management, the project team, 
+            and other stakeholders.`,
+
+        'Project records':
+            `All the business of the project communications is 
+            also part of the organizational process assets. 
+            This includes e-mails, memos, letters, and faxes.`,
+
+        'Project reports':
+            `Reports are formal communications on project 
+            activities, their status, and conditions.`,
+
+        'Pull communication':
+            `This approach pulls the information from a 
+            central repository, like a database of information. 
+            Pull communications are good for large groups of 
+            stakeholders who want to access project 
+            information at their discretion. Consider a project 
+            web site where stakeholders can periodically 
+            drop by for a quick update on the project status.`,
+
+        'Push communication':
+            `This approach pushes the information from the 
+            sender to the receiver without any real 
+            acknowledgment that the information was really 
+            received or understood. Consider letters, faxes, 
+            voicemail messages, e-mails, and other 
+            communications modalities that the sender 
+            packages and sends to receivers through some 
+            intermediary network.`,
+
+        'Receiver':
+            `The person who receives the message.`,
+
+        'Sender':
+            `The person who is sending the message.`,
+
+        'Sender-receiver models':
+            `Feedback loops and barriers to communications.`,
+
+        'Stakeholder notifications':
+            `Notices to the stakeholders about resolved 
+            issues, approved changes, and the overall health 
+            of the project.`,
+
+        'Status review meeting':
+            `A regularly scheduled meeting to discuss the 
+            status of the project and its progress toward 
+            completing the project scope statement.`,
+
+        'Time reporting system':
+            `A system to record the actual time to complete 
+            project activities.`
+    }
+        
+     
     }
     // term definitions were copy/pasted with linebreaks 
     // loop below will fix
