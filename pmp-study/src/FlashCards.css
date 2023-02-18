@@ -1,0 +1,17 @@
+.terms-category {
+    font-size: clamp(32px, 10vw, 40px);
+    margin: 40px 0
+}
+
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.show {
+    opacity: 1
+}
+
+.hide {
+    opacity: 0
+}

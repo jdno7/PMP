@@ -2237,6 +2237,491 @@ const cards = {
         'Time reporting system':
             `A system to record the actual time to complete 
             project activities.`
+    },
+
+    'Agile Terms': {
+        'Acceptance Test-Driven Development':
+            `A method used to communicate with business customers, developers, and testers before coding begins.`,
+
+        'Active Listening':
+            `To focus on what is said and provide feedback to communicate understanding.`,
+
+        'Adaptive Leadership':
+            `A leadership style that helps teams to thrive and overcome challenges throughout a project.`,
+
+        'Affinity Estimation':
+            `A method used to quickly place user stories into a comparable-sized group.`,
+
+        'Agile':
+            `To develop a goal through periodic experimentation in order to fulfill the need of a complex decision.`,
+
+        'Agile Adaption':
+            `To adapt the project plan continuously through retrospectives in order to maximize value creation during the planning process.`,
+
+        'Agile Coaching':
+            `To help achieve goals that are either personal or organizational.`,
+
+        'Agile Experimentation':
+            `To use the empirical process, observation, and spike introduction while executing a project to influence planning.`,
+
+        'Agile Manifesto':
+            `A statement that reflects Agile Philosophy that includes: individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to changes over following a plan.`,
+
+        'Agile Manifesto Principles':
+            `A document that describes the twelve principles of the Agile Manifesto.`,
+
+        'Agile Manifesto: Customer Satisfaction':
+            `To satisfy customers through early and continuous delivery of products, to test and receive feedback, to inform customers on progress, and to fulfill the customer’s value by completing priority requirements.`,
+
+        'Agile Manifesto: Welcome Changes':
+            `To allow quick responses to changes in the external environment, and late in development to maximize the customer’s competitive advantage.`,
+
+        'Agile Manifesto: Frequent Delivery':
+            `To deliver software frequently to the customer, allowing for a quicker product release, faster provision of value to the customer and shorter delivery timeframe.`,
+
+        'Agile Manifesto: Collocated Team':
+            `To have individuals work together daily on a project to implement osmotic communication, focus, and receive instant feedback to achieve a common goal.`,
+
+        'Agile Manifesto: Motivated Individuals':
+            `To give individuals the empowerment, environment, support, and trust needed to complete a task successfully.`,
+
+        'Agile Manifesto: Face-to-Face Conversation':
+            `The most efficient and effective way to communicate in order to receive direct feedback and influence osmotic communication.`,
+
+        'Agile Manifesto: Working Software':
+            `Working software enables the measurement of progress, enhances customer satisfaction, and maintains and improves the quality of the software to help support project goals.`,
+        
+        'Agile Manifesto: Constant Pace':
+            `To help team members establish a healthy work-life balance, remain productive, and respond to changes swiftly for progress during a project.`,
+
+        'Agile Manifesto: Continuous Attention':
+            `To enhance agility and time spent on work requirements in order to retain a well-balanced work environment.`,
+
+        'Agile Manifesto: Simplicity':
+            `Allows team members to focus on what is necessary to achieve the requirements needed to create and deliver value to the project and customer.`,
+
+        'Agile Manifesto: Self-Organization':
+            `A team that knows how to complete tasks effectively, has dedication to the project and is an expert on the process and project.`,
+
+        'Agile Manifesto: Regular Reflection':
+            `This allows a team to learn how to become more effective, what changes need immediate implementation, and behavior that needs adjustment.`,
+
+        'Agile Mentoring':
+            `To pass on and teach based on experience, knowledge, and skills to other individuals in the team or that work for the organization.`,
+
+        'Agile Methodologies':
+            `A way to complete a goal effectively and efficiently. Examples of Agile Methodologies include XP, Scrum, and Lean.`,
+
+        'Agile Modeling':
+            `A workflow depiction of a process or system a team can review before it is turned into code. Stakeholders should understand the model.`,
+
+        'Agile Planning':
+            `The most important aspect of the Agile project. Planning happens at multiple levels such as strategic, release, iteration, and daily. Planning must happen up-front and can change throughout the project.`,
+
+        'Agile Practices':
+            `To make use of the Agile principles through activities.`,
+
+        'Agile Projects':
+            `A project that occurs based on the Agile Manifesto and Agile Principles.`,
+
+        'Agile Smells':
+            `Symptoms of problems that affect Agile teams and projects.`,
+
+        'Agile Space':
+            `A space that allows team members to establish collaboration, communication, transparency, and visibility.`,
+
+        'Agile Themes':
+            `Themes used to help the team focus on the functions of iteration.`,
+
+        'Agile Tooling':
+            `To increase team morale with software or artifacts.`,
+
+        'Analysis':
+            `To develop possible solutions by studying the problem and its underlying need and to understand the information provided.`,
+
+        'Approved Iterations':
+            `After the deadline of iteration is reached, the team and stakeholders conduct a meeting for approval. Stakeholders approve the iteration if the backlog used supports the product increment.`,
+
+        'Architectural Spikes':
+            `Spikes that relate to any area of a system, technology, or application domain that is unknown.`,
+
+        'Artifact':
+            `A process or work output Ex. Document, Code.`,
+
+        'Adaptive Software Development (ASD)':
+            `Exhibits continuous adaptation to the project and its processes with characteristics that include: mission-focused, feature-based, iterative, time-boxed, risk-driven, and change tolerant`,
+
+        'Automated Testing Tools':
+            `These tools allow for efficient and strong testing. Examples: Peer Reviews, Periodical Code-Reviews, Refactoring, Unit Tests, Automatic and Manual Testing.`,
+
+        'Being Agile':
+            `To work in a responsive way to deliver the products or services a customer needs and when they want the products or services.`,
+
+        'Brainstorming':
+            `An effective and efficient way of gathering ideas within a short period of time from a group.`,
+
+        'Burn-Down Chart':
+            `A chart used to display progress during and at the end of an iteration. “Burning down” means the backlog will lessen throughout the iteration.`,
+
+        'Burn Rate':
+            `The rate of resources consumed by the team; also cost per iteration.`,
+
+        'Burn-Up Chart':
+            `A chart that displays completed functionality. Progress will trend upwards, as stories are completed. Only shows complete functions, it is not accurate at predicting or showing work-in-progress.`,
+
+        'CARVER':
+            `An acronym to measure the goals and mission of the project with each letter meaning: Criticality, Accessibility, Return, Vulnerability, Effect, and Recognizability.`,
+
+        'Ceremony':
+            `A meeting conducted during an Agile project that consists of daily stand-up, iteration planning, iteration review, and iteration retrospective.`,
+
+        'Change':
+            `To change requirements that increase value to the customer.`,
+
+        'Charter':
+            `A document created during initiation that formally begins the project. The document includes the project’s justification, a summary level budget, major milestones, critical success factors, constraints, assumptions, and authorization to do it.`,
+
+        'Chicken':
+            `An individual involved but not committed to an Agile project.`,
+
+        'Coach':
+            `A team role that keeps the team focused on learning and the process.`,
+
+        'Collaboration':
+            `A method of cooperation among individuals to achieve a common goal.`,
+
+        'Collective Code Ownership':
+            `The entire team together is responsible for 100% of the code.`,
+
+        'Collocation':
+            `The entire team is physically present, working in one room.`,
+
+        'Common Cause':
+            `An issue solved through trend analysis because the issue is systematic.`,
+
+        'Communication':
+            `To share smooth and transparent information of needs.`,
+
+        'Command & Control':
+            `Decisions created by higher-up individuals in the organization and handed over to the team.`,
+
+        'Compliance':
+            `To meet regulations, rules, and standards.`,
+
+        'Cone of Silence':
+            `An environment for the team that is free of distractions and interruptions.`,
+
+        'Continuous Integration':
+            `To consistently examine a team member’s work. To build, and test the entire system.`,
+
+        'Crystal Family':
+            `An adaptable approach that focuses on the interaction between people and processes that consists of families that vary based on team size, system criticality, and project priorities.`,
+
+        'Cumulative Flow Diagram':
+            `A chart that displays feature backlog, work-in-progress, and completed features.`,
+
+        'Cycle Time':
+            `The time needed to complete a feature (user story).`,
+
+        'Daily Stand Up':
+            `A brief meeting where the team shares the previous day’s achievements plans to make achievements, obstacles, and how to overcome the obstacles.`,
+
+        'DEEP':
+            `The qualities of a product backlog include: detailed, estimate-able, emergent, and prioritized.`,
+
+        'Deliverables':
+            `A tangible or intangible object delivered to the customer. Ex. Document, Pamphlet, Report`,
+
+        'Disaggregation':
+            `To separate epics or large stories into smaller stories.`,
+
+        'Dissatisfaction':
+            `The lack of satisfaction among workers such as work conditions, salary, and management-employee relationships. Factors are known as demotivators.`,
+
+        'Distributive Negotiation':
+            `To reach a deal through tactics so both parties receive the highest amount of value possible.`,
+
+        'Dot Voting':
+            `A system of voting where people receive a certain number of dots to vote on the options provided.`,
+
+        'Dynamic Systems Development Model (DSDM)':
+            `A model that provides a comprehensive foundation for planning, managing, executing, and scaling agile and iterative software development projects based on nine principles that involve business needs/value, active user involvement, empowered teams, frequent delivery, integrated testing, and stakeholder collaboration.`,
+
+        'Earned Value Management (EVM)':
+            `Earned Value Management, works well at iteration. It is a method to measure and communicate progress and trends at the current stage of the project.`,
+
+        'Emergent':
+            `Stories that grow and change over time as other stories reach completion in the backlog.`,
+
+        'Emotional Intelligence':
+            `An individual’s skill to lead and relate to other team members.`,
+
+        'Epic Story':
+            `A large story that spans iterations then disaggregated into smaller stories.`,
+
+        'Escaped Defects':
+            `Defects reported after the delivery by the customer.`,
+
+        'Expectancy Theory':
+            `An individual chooses to behave in a particular way over other behaviors because of the expected results of the chosen behavior.`,
+
+        'Exploratory Testing':
+            `To inquire how the software works with the use of test subjects using the software and asking questions about the software.`,
+
+        'Extreme Persona':
+            `A team-manufactured persona that exaggerates to induce requirements a standard persona may miss.`,
+
+        'eXtreme Programming (XP)':
+            `A methodology in Agile with one-week iterations and paired development.`,
+
+        'Feature-Driven Development (FDD)':
+            `A comprehensive model and list of features included in the system before the design work begins.`,
+
+        'Feature':
+            `A group of stories that deliver value to the customers.`,
+
+        'Fibonacci Sequence':
+            `The traditional Fibonacci sequence is 1, 2, 3, 5, 8, 13, 21, 34, and so on. In Agile projects, this sequence is modified. The modified Fibonacci sequence is 0, 1, 2, 3, 5, 8, 13, 20, 40, 100 - it is used to estimate the relative size of User Stories in terms of Story Points.`,
+
+        'Five Whys':
+            `The root causes analysis technique that asks WHY five times. The problem is looked into deeper each time WHY is asked. Toyota developed this technique.`,
+
+        'Fixed Time Box':
+            `Assigned tasks prioritized for completion based on an estimated number of days. Top priorities are usually completed first.`,
+
+        'Force Field Analysis':
+            `To analyze forces that encourage or resist change.`,
+
+        'Grooming':
+            `To clean up the product backlog by removal of items, disaggregation of items, or estimation of items.`,
+
+        'Ground Rules':
+            `Unwritten rules decided and followed by team members.`,
+
+        'High-Bandwidth Communication':
+            `Face-to-face communication also includes non-verbal communication.`,
+
+        'High Performing Team':
+            `This team reaches maximum performance by creating of clear, detailed goals, open communication, accountability, empowerment, use of the participatory decision model, and the team consists of twelve dedicated members or fewer.`,
+
+        'Ideal Time':
+            `The amount of time needed to complete an assignment without distractions or interruptions.`,
+
+        'Incremental Delivery':
+            `Functionality conveyed in small phases.`,
+
+        'Incremental Project Releases':
+            `To build upon the prior release of a goal, outcome, or product, not all requirements are met, but after all releases, the requirements will be met.`,
+
+        'Information Radiator':
+            `Artifacts used to help maintain transparency of project status to team members and stakeholders.`,
+
+        'Information Refrigerator':
+            `Information that is not transparent or useful to the team and stakeholders.`,
+
+        'Innovation Games':
+            `A practice used to induce requirements from product, owners, users, and stakeholders.`,
+
+        'Integrative Negotiation':
+            `To reach an agreement collaboratively that creates more value for both parties by a win-win solution.`,
+
+        'IRR':
+            `Internal Rate of Return- a discount rate that makes the net present value of all cash flows from a project equal to zero. Used to determine the potential profitability of project or investment.`,
+
+        'Intraspectives':
+            `To inspect within, during a meeting with the Agile team to review practices, usually when a problem or issue occurs.`,
+
+        'Intrinsic Schedule Flaw':
+            `Poor estimation occurs at the beginning of the iteration.`,
+
+        'INVEST':
+            `The benefits of good user stories, which include: Independent, Negotiable, Valuable, Estimate-able, Small, and Testable.`,
+
+        'Iteration':
+            `Work cycle, Scrum uses 2-4 weeks, XP uses 1 week.`,
+
+        'Iteration Backlog':
+            `Work to complete in a particular iteration.`,
+
+        'Iteration H':
+            `Iteration used to prepare the launch of software and to test software.`,
+
+        'Iteration 0':
+            `Iteration to complete tasks before the development work occurs, for technical and architectural spikes, and to gather requirements into the backlog.`,
+
+        'Iteration Retrospective':
+            `A meeting used in Scrum, the team discusses ways to improve after work is completed.`,
+
+        'Kaizen':
+            `Based on Japanese management philosophy, to continuous improvement through small releases.`,
+
+        'Kanban':
+            `A signal used to advance transparency of work-in-progress, a new task can begin once a previous one is complete.`,
+
+        'Kanban Board':
+            `A chart that shows workflow stages to locate work-in-progress.`,
+
+        'Kano Analysis':
+            `An analysis of product development and customer satisfaction based on needs fulfilled/not fulfilled vs. satisfaction/dissatisfaction.`,
+
+        'Last Responsible Moment':
+            `To make decisions as late as possible in order to preserve all possible options.`,
+
+        'Lean Methodology':
+            `To eliminate waste, an Agile method derived from manufacturing.`,
+
+        'Little’s Law':
+            `The law limits work-in-progress efficiently with the development of an appropriate cycle time.`,
+
+        'Low Performing Team':
+            `This team has a lack of trust, no accountability, fear of conflict, less commitment, and less attention to details and results.`,
+
+        'Lean Software Development (LSD)':
+            `This methodology focuses on the “Value Stream” to deliver value to customers. The goal is to eliminate waste by focusing on valuable features of a system and to deliver value in small batches. Principles of Lean include: elimination of waste, amplify learning, to decide late as possible, deliver as fast as possible, empowerment the team, building integrity, and seeing the whole.`,
+
+        'Maslow’s Hierarchy of Needs':
+            `This theory suggests the interdependent needs (motivators) of people based on five levels in this order: Physiological, Safety & Security, Social, Esteem, and Self-Actualization.`,
+
+        'Minimal Viable Product (MVP)':
+            `A product with only the essential features delivered to early adopters to receive feedback.`,
+
+        'Minimal Marketing Feature (MMF)':
+            `The smallest feature of a product that provides value to the end-user.`,
+
+        'MoSCoW Analysis':
+            `An analysis used to help stakeholders understand the importance of each requirement delivered. MoSCoW is the acronym for Must have, Should have, Could have, and Would like to have.`,
+
+        'NPV':
+            `Net Present Value- A value that compares the amount invested today to the present value of future cash receipts from the investment.`,
+
+        'Osmotic Communication':
+            `To communicate by sharing an environment.`,
+
+        'Pair Programming':
+            `When developers work together in XP Practice`,
+
+        'Pareto Principle':
+            `Known as the 80/20 rule. For Agile projects, it means that 80% of all development should be spent on the top 20% of the features the customers need.`,
+
+        'Participatory Decision Models':
+            `To have stakeholder’s involvement in decision-making with techniques such as a simple vote.`,
+
+        'Pig':
+            `A committed individual impacted by the outcome.`,
+
+        'Plan-Do-Check-Act':
+            `Work cycle in smaller, quick iterations than traditional.`,
+
+        'Planning Game':
+            `To prioritize work and estimate effort required by the creation of a release plan in XP.`,
+
+        'Pre-Mortem':
+            `Team members asked to define reasons for a project’s failure and to identify causes of failure missed in previous analyses.`,
+
+        'Product Road Map':
+            `An artifact that displays planned project functionality.`,
+
+        'Product Vision':
+            `A document that describes what the product is, who will use the product, why the product will be used, and how the product supports the strategy of a company.`,
+
+        'Product Vision Statement':
+            `A statement that defines the purpose and value of the product.`,
+
+        'Programmer':
+            `The role of a team member that writes the code, a role used in XP.`,
+
+        'Progressive Elaboration':
+            `An approach for planning that occurs in cycles instead of upfront, which happens frequently.`,
+
+        'Prototyping':
+            `A model used to perfect requirements.`,
+
+        'Relative Prioritization':
+            `A list of all user stories and features ordered by highest priority to the lowest priority.`,
+
+        'Relative Sizing':
+            `To estimate the size of a story in comparison with another story.`,
+
+        'Release':
+            `Iteration outcomes delivered to customers (end-users).`,
+
+        'Release Plan':
+            `A document that describes the timeline of a product release.`,
+
+        'Requirements at a High Level':
+            `Requirements are in the form of user stories and collected at a high level to estimate a budget.`,
+
+        'Requirements Prioritization Model':
+            `A model to rate each feature with the calculation of the weighted formula defined by the team.`,
+
+        'Requirements Review':
+            `To review the requirements so they fulfill the needs and priorities of stakeholders.`,
+
+        'Risk-Based Spike':
+            `This spike helps the team remove major risks, and if the spike fails every approach possible, the project is defined as “fast failure”.`,
+
+        'Rolling Wave Planning':
+            `To divide the planning phase into stages.`,
+
+        'Scrum of Scrums':
+            `Meetings used to organize large projects with scrum masters from different teams.`,
+
+        'Software Development Life Cycle (SDLC)':
+            `This cycle tends to be long and requires a lot of advanced planning.`,
+
+        'Self-Directing Team':
+            `This team has the capability to make their own decisions, empowerment, mutual accountability, and collective ownership of a project, which leads them to be more productive and efficient.`,
+
+        'Self-Organizing Team':
+            `Naturally formed teams that interact with minimal management supervision.`,
+
+        'Shu-Ha-Ri Model':
+            `Originated in Japan as a way to understand learning and mastery, Shu – obeying the rules, Ha - consciously moving away from the rules, and Ri – consciously finding an individual path.`,
+
+        'Spike':
+            `An experiment that helps a team answer, a particular question and determines future actions.`,
+
+        'Sprint Plan':
+            `A document that explains sprint goals, tasks, and requirements and how the tasks will reach completion.`,
+
+        'Sprint Retrospective':
+            `A team-member meeting occurs after each sprint to evaluate the product and process to improve efficiency and effectiveness.`,
+
+        'Sprint Review':
+            `A meeting that occurs after each sprint to show the product or process to stakeholders for approval and to receive feedback.`,
+
+        'Swarming':
+            `When the team collaborates to focus on a single user story.`,
+
+        'Tabaka’s Model':
+            `A model originated in Japan to describe a team with values that include self-organization, empowered to make decisions, belief in vision and success, a committed team, trust, participatory decision making, consensus-driven, and construction disagreement.`,
+
+        'Team Empowerment':
+            `A team that is empowered has collaboration, responsibility, and self-sufficiency.`,
+
+        'Team Formation':
+            `Formation happens when a team creates ground rules and processes to build bonds and shared goals.`,
+
+        'Team Space':
+            `An area for team members to collocate, usually a physical location, in some cases a virtual location is created.`,
+
+        'Team Velocity':
+            `The number of story points completed during iteration and used to determine the planned capacity.`,
+
+        'Technical Debt':
+            `Technical decisions a team chooses to not implement currently, but must do so or face difficulty in the future.`,
+
+        'Test-Driven Development (TDD)':
+            `A written acceptance test for a module with the code built to pass the tests in order to ensure correct performance.`,
+
+        'Tracker':
+            `A role in XP that measures the team’s progress and communicates the measurements to the team.`,
+
+        'Usability Testing':
+            `An exploratory test uses a test subject to understand the usability of the software.`,
+
+        'Wide-Band Delphi Estimating':
+            `An estimation technique for user stories. The PO presents user stories & discusses challenges. Each story’s estimates plotted, and then the team comes to an agreement on the range of points.`
     }
         
      
