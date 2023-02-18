@@ -18,15 +18,25 @@ const FlashCards = () => {
     const terms = Object.keys(cards[termSections[sectionNum]])
 
     const nextCard = () => {
+        if (hideDef && termVisibilty) setTermVisibility(!termVisibilty)
+        if (!hideDef && !termVisibilty) setTermVisibility(!termVisibilty)
         termsNum === terms.length? setTermsNum(0) : setTermsNum(termsNum+1)
     }
     const previousCard = () => {
+        if (hideDef && termVisibilty) setTermVisibility(!termVisibilty)
+        if (!hideDef && !termVisibilty) setTermVisibility(!termVisibilty)
         termsNum === 0? setTermsNum(terms.length) :  setTermsNum(termsNum-1)
     }
 
     const handleDefinitionsClick = () => {
-        setHideDef(() => !hideDef)
-        setTermVisibility(!termVisibilty)
+        
+        // if (!hideDef && termVisibilty) setTermVisibility(!termVisibilty) 
+        if (hideDef && termVisibilty) setHideDef(() => !hideDef)
+        else if (!hideDef && !termVisibilty) setHideDef(() => !hideDef)
+        else {
+                setHideDef(() => !hideDef)
+                setTermVisibility(!termVisibilty)
+        }
     }
 
     const handleSelectChange = (e) => {
@@ -49,27 +59,28 @@ const FlashCards = () => {
     return (
         <>
             <h1>Flashcards</h1>
+                {
+                    hideDef === true? 
+                        <Button className='definition-visibility-state-btn' onClick={handleDefinitionsClick}>Show Definitions</Button>
+                            :
+                        <Button className='definition-visibility-state-btn' onClick={handleDefinitionsClick}>Hide Definitions</Button>
+                }
             {/* <h2>{termSections[sectionNum]}</h2> */}
             <select className='terms-category' onChange={handleSelectChange}>
                 {termSections.map((t, idx) => <option value={idx}>{t}</option>)}
             </select>
             <Row>
                 <Col>
-                    <Card>
+                    <Card className='FlashCard'>
                         <Card.Title className='card-title'>{terms[termsNum]}</Card.Title>
-                            {
-                                hideDef === true? 
-                                    <Button onClick={handleDefinitionsClick}>Show Definitions</Button>
-                                        :
-                                    <Button onClick={handleDefinitionsClick}>Hide Definitions</Button>
-                            }
+                          
 
                         <Card.Body>
                             {/* <Card.Text> */}
                                 {
                                     hideDef === true? 
                                         <>
-                                            <Button className={termVisibilty? 'hide' : 'show'} onClick={() => setTermVisibility(!termVisibilty)}>Reveal Definition</Button>
+                                            <Button className={`reveal-btn ${termVisibilty? 'hide' : 'show'}`} onClick={() => setTermVisibility(!termVisibilty)}>Reveal Definition</Button>
                                             <Card.Text className={termVisibilty? 'show' : 'hide'}>
                                                 {cards[termSections[sectionNum]][terms[termsNum]]}
                                             </Card.Text>

@@ -5,7 +5,7 @@ const cards = {
 
         'Business Value': 'A quantable return on investment. The return can be tangible, such as equipment, money, or market share. The return can be intangible, such as brand recognition, trademarks, and reputation',
 
-        'Cartified Associate in Project Management (CAPM)': 'A person who has slightly less project managment experience than a PMP, but who has qualified for and then passed the CAPM exam.',
+        'Certified Associate in Project Management (CAPM)': 'A person who has slightly less project managment experience than a PMP, but who has qualified for and then passed the CAPM exam.',
 
         'Cultural and Social Environment': 'Defines how a project affects people and how those people may affect the project. Cultural and social environemnts include the economic, educational, ethical, religious, demographic, and ethnic composition of the people affected by the project',
 
@@ -13,11 +13,11 @@ const cards = {
 
         'General Management Skills': 'These include the application of accounting, procurement, sales and marketing, contracting, manufacturing, logistics, strategic planning, human resource management, standards and regulations, and information technology.',
 
-        'International and political environment': 'The consideration of the local and international laws, languages, communcitcation challenges, time zone differences, and other non-collacted issues that affect a projects ability to progress.',
+        'International and political environment': 'The consideration of the local and international laws, languages, communication challenges, time zone differences, and other non-collacted issues that affect a projects ability to progress.',
 
         'Interpersonal skills': 'The ability to interact, lead, moticate, and manage people.',
 
-        'Iron Triangle of Project Management': 'A triangle with the characteristics of time, cost, and scope. Time, cost and scope each constiture one side of the triangle; if any side of the Iron Triangle is not in balance with the other sides, the project will suffer. The Iron Triangle of Project Management is also known as the Triple Constraints of Project Management, as all the projects are contrained by time, costm and scope.',
+        'Iron Triangle of Project Management': 'A triangle with the characteristics of time, cost, and scope. Time, cost and scope each constitute one side of the triangle; if any side of the Iron Triangle is not in balance with the other sides, the project will suffer. The Iron Triangle of Project Management is also known as the Triple Constraints of Project Management, as all the projects are contrained by time, cost and scope.',
 
         'Physical environment': 'The physical structure and surroundings that affect a projects work',
 
@@ -30,8 +30,6 @@ const cards = {
         'Project': 'A temporary endeavor to create a unique product, service, or result. The end result of a project is alos called a deliverable.',
 
         'Project benefits management plan': 'A document created and maintained by the project sponsor and the project manager. Thr project benefits management plan defines what benefits the project will create, when the benefits will be realizedm and how the benefits will be measured.',
-
-        'Project business case': 'Created and maintained by the project sponsor and shows the financial validity of why a project is chartered and lainched withing the organization. Typically, the project business case is created before the launch of the project and may be used as a go/no-go decision point.',
 
         'Project Business Case': 
             `Created and maintained by the project 
