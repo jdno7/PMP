@@ -2720,8 +2720,295 @@ const cards = {
 
         'Wide-Band Delphi Estimating':
             `An estimation technique for user stories. The PO presents user stories & discusses challenges. Each story’s estimates plotted, and then the team comes to an agreement on the range of points.`
+    },
+    'Project Risk Management Terms' : {
+
+        'Acceptance': 
+            `A risk response appropriate for both positive and 
+            negative risks, but often used for smaller risks 
+            within a project.`,
+
+        "Ambiguity risks" : 
+            `Risks that have an uncertain, unclear nature, such 
+            as new laws or regulations, the marketplace 
+            conditions, and other risks that are nearly 
+            impossible to predict.`,
+
+        'Avoidance': 
+            `A risk response to avoid the risk.`,
+
+        'Business risks': 
+            `These risks may have negative or positive 
+            outcomes. Examples include using a less 
+            experienced worker to complete a task, allowing 
+            phases or activities to overlap, or forgoing the 
+            expense of formal training for on-the-job 
+            education.`,
+
+        'Cardinal scales':
+            `A ranking approach to identify the probability 
+            and impact by using a numerical value, from .01 
+            (very low) to 1.0 (certain).`,
+
+        'Checklists':
+            `A quick and cost-effective risk identification 
+            approach.`,
+
+        'Data precision':
+            `The consideration of the risk ranking scores that 
+            takes into account any bias, the accuracy of the 
+            data submitted, and the reliability of the nature 
+            of the data submitted.`,
+
+        'Decision tree':
+            `A method to determine which of two or more 
+            decisions is the best one. The model examines 
+            the costs and benefits of each decision’s outcome 
+            and weighs the probability of success for each of 
+            the decisions.`,
+
+        'Delphi Technique':
+            `An anonymous method of querying experts about 
+            foreseeable risks within a project, phase, or 
+            component of a project. The results of the survey 
+            are analyzed by a third party, organized, and then 
+            circulated to the experts. There can be several 
+            rounds of anonymous discussion with the Delphi 
+            Technique, without fear of backlash or offending 
+            other participants in the process. The goal is to 
+            gain consensus on project risks within the
+            project.`,
+
+        'Enhancing':
+            `A risk response that attempts to enhance the 
+            conditions to ensure that a positive risk event will 
+            likely happen.`,
+
+        'Escalating':
+            `A risk response that is appropriate for both 
+            positive and negative risk events that may 
+            outside of the project manager’s authority to act 
+            upon.`,
+
+        'Expected monteary Value (EMV)':
+            `The monetary value of a risk exposure based on 
+            the risk’s probability and impact in the risk 
+            matrix. This approach is typically used in 
+            quantitative risk analysis because it quantifies the 
+            risk exposure.`,
+
+        'External risks':
+            `These risks are outside of the project, but directly 
+            affect it—for example, legal issues, labor issues, a 
+            shift in project priorities, or weather. “Force 
+            majeure” risks call for disaster recovery rather 
+            than project management. These are risks caused 
+            by earthquakes, tornadoes, floods, civil unrest, 
+            and other disasters.`,
+
+        'Flowcharts':
+            `System or process flowcharts show the 
+            relationship between components and how the 
+            overall process works. These are useful for 
+            identifying risks between system components.`,
+
+        'Influence diagrams':
+            `An influence diagram charts out a decision 
+            problem. It identifies all of the elements, 
+            variables, decisions, and objectives and also how 
+            each factor may influence another.`,
+
+        'Ishikawa diagrams':
+            `These cause-and-effect diagrams are also called 
+            fishbone diagrams and are used to find the root 
+            cause of factors that are causing risks within the 
+            project.`,
+
+        'Low-priority risk watch list':
+            `Low-priority risks are identified and assigned to a 
+            watch list for periodic monitoring.`,
+
+        'Mitigation':
+            `A risk response effort to reduce the probability 
+            and/or impact of an identified risk in the project.`,
+
+        'Monte Carlo technique':
+            `A simulation technique that got its name from 
+            the casinos of Monte Carlo, Monaco. The 
+            simulation is completed using a computer 
+            software program that can simulate a project, 
+            using values for all possible variables, to predict 
+            the most likely model.`,
+
+        'Ordinal scales':
+            `A ranking approach that identifies and ranks the 
+            risks from very high to very unlikely or to some 
+            other value.`,
+
+        'Organizational risks':
+            `The performing organization can contribute to 
+            the project’s risks through unreasonable cost, 
+            time, and scope expectations; poor project 
+            prioritization; inadequate funding or the 
+            disruption of funding; and competition with other 
+            projects for internal resources.`,
+
+        'PESTLE':
+            `A prompt list used for risk identification. PESTLE 
+            examines risks in the Political, Economic, Social, 
+            Technological, Legal, and Environmental 
+            domains.`,
+
+        'Probability and impact matrix':
+            `A matrix that ranks the probability of a risk event 
+            occurring and its impact on the project if the 
+            event does happen; used in qualitative and 
+            quantitative risk analyses.`,
+
+        'Project management risks':
+            `These risks deal with faults in the management of 
+            the project: the unsuccessful allocation of time, 
+            resources, and scheduling; unacceptable work 
+            results; and poor project management.`,
+
+        'Pure risks':
+            `These risks have only a negative outcome. 
+            Examples include loss of life or limb, fire, theft, 
+            natural disasters, and the like.`,
+
+        'Qualitative risk analysis':
+            `This approach “qualifies” the risks that have been 
+            identified in the project. Specifically, qualitative 
+            risk analysis examines and prioritizes risks based 
+            on their probability of occurring and their impact 
+            on the project should they occur.`,
+
+        'Quantitative risk analysis':
+            `This approach attempts to numerically assess the 
+            probability and impact of the identified risks. It 
+            also creates an overall risk score for the project. 
+            This method is more in-depth than qualitative 
+            risk analysis and relies on several different tools 
+            to accomplish its goal.`,
+
+        'RAG rating':
+            `An ordinal scale that uses red, amber, and green 
+            (RAG) to capture the probability, impact, and risk 
+            score.`,
+
+        'Residual risks':
+            `Risks that are expected to remain after a risk 
+            response.`,
+
+        'Risk':
+            `A project risk is an uncertain event or condition 
+            that can have a positive or negative impact on 
+            the project.`,
+
+        'Risk identification':
+            `The systematic process of combing through the 
+            project, the project plan, the work breakdown 
+            structure, and all supporting documentation to 
+            identify as many risks that may affect the project 
+            as possible.`,
+
+        'Risk management plan':
+            `A project management subsidiary plan that 
+            defines how risks will be identified, analyzed, 
+            responded to, and monitored within the project. 
+            The plan also defines the iterative risk 
+            management process that the project is expected 
+            to adhere to.`,
+
+        'Risk owners':
+            `The individuals or entities that are responsible for 
+            monitoring and responding to an identified risk 
+            within the project.`,
+
+        'Risk register':
+            `The risk register is a project plan component that 
+            contains all of the information related to the risk 
+            management activities. It’s updated as risk 
+            management activities are conducted to reflect 
+            the status, progress, and nature of the project 
+            risks.`,
+
+        'Risk report':
+            `The risk report explains the overall project risks 
+            and provides summaries about the individual 
+            project risks.`,
+
+        'Risk response audit':
+            `An audit to test the validity of the established risk 
+            responses.`,
+
+        'Risk responsibilities':
+            `The level of ownership an individual or entity has 
+            over a project risk.`,
+
+        'Risk score':
+            `The calculated score based on each risk’s 
+            probability and impact. The approach can be 
+            used in both qualitative and quantitative risk 
+            analysis.`,
+
+        'Root cause identification':
+            `Root cause identification aims to find out why a 
+            risk event may be occurring, the causal factors for 
+            the risk events, and then, eventually, how the 
+            events can be mitigated or eliminated.`,
+
+        'Secondary risks':
+            `New risks that are created as a result of a risk 
+            response.`,
+
+        'Sensitivity analysis':
+            `A quantitative risk analysis tool that examines 
+            each risk to determine which one has the largest 
+            impact on the project’s success.`,
+
+        'Sharing':
+            `A risk response that shares the advantages of a 
+            positive risk within a project.`,
+
+        'SWOT analysis':
+            `SWOT analysis is the process of examining the 
+            project from the perspective of each 
+            characteristic: strengths, weaknesses, 
+            opportunities, and threats.`,
+
+        'TECOP':
+            `A prompt list used in risk identification to 
+            examine the Technical, Environmental, 
+            Commercial, Operational, and Political factors of 
+            the project.`,
+
+        'Technical, quality, or performance risks':
+            `Technical risks are associated with new, 
+            unproven, or complex technologies being used on 
+            the project. Changes to the technology during the 
+            project implementation can also be a risk. Quality 
+            risks are the levels set for expectations of 
+            impractical quality and performance.`,
+
+        'Transference':
+            `A risk response that transfers the ownership of 
+            the risk to another party. Insurance, licensed 
+            contractors, or other project teams are good 
+            examples of transference. A fee and contractual 
+            relationships are typically involved with the 
+            transference of a risk.`,
+
+        'Variability risks':
+            `A type of risk based on the variations that may 
+            occur in the project, such as production, number 
+            of quality errors, or even the weather.`,
+
+        'VUCA':
+            `A prompt list used in risk identification that 
+            examines the Volatility, Uncertainty, Complexity, 
+            and Ambiguity of risk factors within the project.`
     }
-        
      
     }
     // term definitions were copy/pasted with linebreaks 
